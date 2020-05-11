@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48035305862",
+    "firebase_url": "https://wallet-poc-1.firebaseio.com",
+    "project_id": "wallet-poc-1",
+    "storage_bucket": "wallet-poc-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48035305862:android:7361de1f6944784c61f407",
+        "android_client_info": {
+          "package_name": "com.example.walletpoc1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48035305862-2rhc5js21fnd9epl5cg2q4ia2d1k7gdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlbbyivmC0hsDEuwq6mJjHDsFnJ0RKmQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48035305862-2rhc5js21fnd9epl5cg2q4ia2d1k7gdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
